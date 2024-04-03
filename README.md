@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raghu593
+- 👋 Hi, I’m Raghu
 - 👀 I’m interested in ... web ,app development
 - 🌱 I’m currently learning ... React , React Native
 - 💞️ I’m looking to collaborate on ... open source projects
