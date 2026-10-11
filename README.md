@@ -1,6 +1,6 @@
 # Hi, I'm Raghuram 👋
 
-**Full-stack developer (React / Next.js, Node.js)** with a frontend focus, based in India. I build with agentic AI tools and I'm currently open to new opportunities.
+**Full-stack developer (React / Next.js, Node.js)** with a frontend focus, based in Hyderabad, India. I build with agentic AI tools and I'm currently open to new opportunities.
 
 ## What I do
 
@@ -9,17 +9,27 @@
 - Write **Node.js / Express** APIs and ship with **Docker**
 - Day to day I work with **Cursor** and **Claude Code**
 
+## Featured projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [piefi-rag](https://github.com/Raghu593/piefi-rag) | RAG app that answers questions over your own data, with local embeddings and a vector store | Next.js, TypeScript, ChromaDB, Transformers.js, OpenAI, Recharts |
+| [mern-ecommerce-mcp](https://github.com/Raghu593/mern-ecommerce-mcp) | E-commerce store with an MCP server so AI agents can work with the shop | MongoDB, Express, React, Node.js, MCP |
+| [Pillbox-EHealth-Mobile-App](https://github.com/Raghu593/Pillbox-EHealth-Mobile-App) | Cross-platform e-health mobile app | React Native (Android + iOS) |
+| [eshop](https://github.com/Raghu593/eshop) | Full-stack e-commerce web app | MongoDB, Express, React, Node.js |
+
 ## Tech stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Get in touch
 
