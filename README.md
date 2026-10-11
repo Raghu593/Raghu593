@@ -1,13 +1,14 @@
 # Hi, I'm Raghuram 👋
 
-**Full-stack developer (React / Next.js, Node.js)** with a frontend focus, based in Hyderabad, India. I build with agentic AI tools and I'm currently open to new opportunities.
+**Full-stack developer (React / Next.js, Node.js) building AI-powered products.** I work across the stack, from polished frontends to Node.js APIs to LLM features like RAG and AI assistants. Based in Hyderabad, India, and currently open to new opportunities.
 
 ## What I do
 
-- Migrated product flows and dashboards from Angular to **React/Next.js**, using **Redux** to cut redundant API calls and speed up page loads
-- Built an in-app **AI assistant** with the OpenAI GPT API (frontend + backend)
-- Write **Node.js / Express** APIs and ship with **Docker**
-- Day to day I work with **Cursor** and **Claude Code**
+- **AI engineering:** built an in-app AI assistant with the OpenAI GPT API, integrated end to end across frontend and backend
+- **RAG & agents:** building retrieval-augmented generation apps (embeddings, vector search with ChromaDB) and exploring MCP servers so AI agents can work with real applications
+- **Frontend:** migrated product flows and dashboards from Angular to **React/Next.js**, using **Redux** to cut redundant API calls and speed up page loads
+- **Backend & deployment:** write **Node.js / Express** APIs and ship with **Docker**
+- **AI-assisted workflow:** I build daily with **Cursor** and **Claude Code**, and I review everything they generate before it ships
 
 ## Featured projects
 
