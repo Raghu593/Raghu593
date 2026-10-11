@@ -1,6 +1,6 @@
 # Hi, I'm Raghuram 👋
 
-**Full-stack developer (React / Next.js, Node.js)** with a frontend focus, based in Hyderabad, India. I build with agentic AI tools and I'm currently open to new opportunities.
+**Full-stack developer (React / Next.js, Node.js)** with a frontend focus, based in India. I build with agentic AI tools and I'm currently open to new opportunities.
 
 ## What I do
 
@@ -20,13 +20,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-## Featured projects
-
-<!-- Replace these with your real pinned projects -->
-- **[Project name](https://github.com/YOUR_USERNAME/REPO)**: one line on what it does and the stack
-- **[Project name](https://github.com/YOUR_USERNAME/REPO)**: one line on what it does and the stack
-- **[Project name](https://github.com/YOUR_USERNAME/REPO)**: one line on what it does and the stack
 
 ## Get in touch
 
